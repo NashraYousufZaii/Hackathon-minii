@@ -1,0 +1,44 @@
+.header {
+    overflow: hidden;
+    padding: 20px 10px;
+    background-color: #7749F8;
+  }
+  .header a {
+    float: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    background-color: #7749F8;
+  }
+    .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #7749F8;
+  }
+  .header a:hover {
+    background-color: #ddd;
+    color: black;
+    background-color: #7749F8;
+  }
+
+  .header-right {
+    float: right;
+    background-color: #7749F8;
+  } 
+  .two{
+    padding: 10px;
+    box-shadow: 1px 2px 2px gray ;
+}
+
+#btn {
+    background-color: #7f51c4;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    align-items: center;
+  }
